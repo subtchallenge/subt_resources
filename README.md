@@ -1,5 +1,3 @@
-# DARPA Subterranean Challenge Resources
-
 ![subt-banner](docs/subt_banner.png "DARPA SubT Challenge")
 
 The [DARPA Subterranean (SubT) Challenge](https://subtchallenge.com/) program sparked innovation in mapping, navigation, and search of underground environments.
