@@ -29,5 +29,5 @@ Follow these steps to add your resources to this repository:
 
 ## Examples
 
-Example contributions are provided in [Simulation](/Simulation.md) and [Autonomy](/Autonomy.md). 
+Example contributions are provided in [Simulation](/5-Simulation.md) and [Autonomy](/2-Autonomy.md). 
 
