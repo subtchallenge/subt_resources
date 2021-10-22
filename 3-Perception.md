@@ -6,5 +6,4 @@ This list includes resources for perception capabilities such as mapping and obj
 
 ## Hardware
 
-## Datasets
 

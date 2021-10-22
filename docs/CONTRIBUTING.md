@@ -2,9 +2,10 @@
 
 All SubT Challenge competitors are welcome to contribute links to their open-source software, hardware, and datasets here. All contributions must include:
 
-1. A link to the open repository or dataset
-1. A brief (< N character) description of the resource, especially what makes the resource unique/novel *TODO: Select a word/character limit*
+1. Link to the open repository or dataset
+1. Brief (< N character) description of the resource, especially what makes the resource unique/novel *TODO: Select a word/character limit*
 1. Name of the SubT Challenge team who developed the resource
+1. Link to the publication associated with the resource, if applicable
 1. Tags for the relevant event or subdomain
 
 Contributions must be open source and publicly available. 
@@ -17,6 +18,7 @@ Please add the resource under the most appropriate technology area in the follow
 * [Perception](3-Perception.md)
 * [Networking](4-Networking.md)
 * [Simulation](5-Simulation.md)
+* [Datasets](6-Datasets.md)
 
 Follow these steps to add your resources to this repository:
 
@@ -29,5 +31,5 @@ Follow these steps to add your resources to this repository:
 
 ## Examples
 
-Example contributions are provided in [Simulation](/5-Simulation.md) and [Autonomy](/2-Autonomy.md). 
+Example contributions are provided in [Autonomy](/2-Autonomy.md), [Simulation](/5-Simulation.md), and [Datasets](/6-Datasets.md). 
 

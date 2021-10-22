@@ -8,6 +8,4 @@ The following resources were developed to expand robot mobility capabilities suc
 ## Hardware
 
 
-## Datasets
-
 
