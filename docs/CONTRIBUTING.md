@@ -6,7 +6,7 @@ All SubT Challenge competitors are welcome to contribute links to their open-sou
 1. Brief (< N character) description of the resource, especially what makes the resource unique/novel *TODO: Select a word/character limit*
 1. Name of the SubT Challenge team who developed the resource
 1. Link to the publication associated with the resource, if applicable
-1. Tags for the relevant event or subdomain
+1. Tags for the relevant technology area, event, or subdomain
 
 Contributions must be open source and publicly available. 
 Licensing information is recommended to be included at the resource link, but no specific licenses are required for contributions to be included here.
