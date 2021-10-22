@@ -11,14 +11,7 @@ All SubT Challenge competitors are welcome to contribute links to their open-sou
 Contributions must be open source and publicly available. 
 Licensing information is recommended to be included at the resource link, but no specific licenses are required for contributions to be included here.
 
-Please add the resource under the most appropriate technology area in the following categories:
-
-* [Mobility](1-Mobility.md)
-* [Autonomy](2-Autonomy.md)
-* [Perception](3-Perception.md)
-* [Networking](4-Networking.md)
-* [Simulation](5-Simulation.md)
-* [Datasets](6-Datasets.md)
+Please add the resource under the most appropriate category as listed in the [README](/readme.md) 
 
 Follow these steps to add your resources to this repository:
 
@@ -31,5 +24,5 @@ Follow these steps to add your resources to this repository:
 
 ## Examples
 
-Example contributions are provided in [Autonomy](/2-Autonomy.md), [Simulation](/5-Simulation.md), and [Datasets](/6-Datasets.md). 
+Example contributions are provided in [Software](1-Software.md). 
 
