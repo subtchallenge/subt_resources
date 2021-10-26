@@ -18,7 +18,7 @@ Follow these steps to add your resources to this repository:
 1. Clone this repository locally using `git clone <repository_url>`
 1. Create a new branch that includes your team's name with `git checkout -b <new_branch_name>`
 1. Edit the files locally using markdown formatting. Add and commit your changes with `git add <file>` and `git commit -m "<commit msg>"`
-1. Submit a [pull request](TODO) to the `main` branch *TODO: Update link to public repo PR page*
+1. Submit a [pull request](https://github.com/subtchallenge/subt_resources/pulls) to the `main` branch
 1. Look out for pull request activity and please respond promptly to reviewer requests.
 1. Your pull request will be merged and your resource links will be available on the `main` branch! 
 
