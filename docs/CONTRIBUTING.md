@@ -11,7 +11,7 @@ All SubT Challenge competitors are welcome to contribute links to their open-sou
 Contributions must be open source and publicly available. 
 Licensing information is recommended to be included at the resource link, but no specific licenses are required for contributions to be included here.
 
-Please add the resource under the most appropriate category as listed in the [README](/readme.md) 
+Please add the resource under the most appropriate category as listed in the [README](/README.md) 
 
 Follow these steps to add your resources to this repository:
 
