@@ -29,5 +29,6 @@ Tags: `tunnel`, `urban`, `cave`, `finals`, `simulation 🖥️`
 ### [SubT Reference Datasets](https://bitbucket.org/subtchallenge/subt_reference_datasets)
 
 Robot data collected by the Army Research Laboratory in the Systems Competition courses at STIX, Tunnel Circuit, and Urban Circuit events. The data includes rosbags with LIDAR, camera, odometry, and mapping data as robots were teleoperated through the courses to known artifact locations.
+Publications: [1](https://www.researchgate.net/publication/344982639_Test_Your_SLAM_The_SubT-Tunnel_dataset_and_metric_for_mapping), [2](https://link.springer.com/chapter/10.1007%2F978-3-030-71151-1_35)
 
 Tags: `stix`, `tunnel`, `urban`, `robot 🤖`
