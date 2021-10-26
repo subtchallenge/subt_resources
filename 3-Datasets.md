@@ -24,7 +24,7 @@ Tags: `finals`, `environment`
 
 Point cloud data sampled from the Virtual Competition world meshes.
 
-Tags: `tunnel`, `urban`, `cave`, `finals`, `simulation`
+Tags: `tunnel`, `urban`, `cave`, `finals`, `simulation 🖥️`
 
 ### [SubT Reference Datasets](https://bitbucket.org/subtchallenge/subt_reference_datasets)
 
