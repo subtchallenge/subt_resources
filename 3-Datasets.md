@@ -30,4 +30,4 @@ Tags: `tunnel`, `urban`, `cave`, `finals`, `simulation`
 
 Robot data collected by the Army Research Laboratory in the Systems Competition courses at STIX, Tunnel Circuit, and Urban Circuit events. The data includes rosbags with LIDAR, camera, odometry, and mapping data as robots were teleoperated through the courses to known artifact locations.
 
-Tags: `stix`, `tunnel`, urban`, `robot :robot:`
+Tags: `stix`, `tunnel`, `urban`, `robot 🤖`
