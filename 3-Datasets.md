@@ -30,10 +30,10 @@ Tags: `tunnel`, `urban`, `cave`, `finals`, `simulation 🖥️`
 
 Robot data collected by the Army Research Laboratory in the Systems Competition courses at STIX, Tunnel Circuit, and Urban Circuit events. The data includes rosbags with LIDAR, camera, odometry, and mapping data as robots were teleoperated through the courses to known artifact locations.
 
+Tags: `stix`, `tunnel`, `urban`, `robot 🤖`
+
 Publications:
 
-1. [Test Your SLAM! The SubT-Tunnel dataset and metric for mapping](https://www.researchgate.net/publication/344982639_Test_Your_SLAM_The_SubT-Tunnel_dataset_and_metric_for_mapping)
+1. Rogers, John & Gregory, Jason & Fink, Jonathan & Stump, Ethan. (2020). Test Your SLAM! The SubT-Tunnel dataset and metric for mapping. 955-961. 10.1109/ICRA40945.2020.9197156. 
 
-2. [The DARPA SubT Urban Circuit Mapping Dataset and Evaluation Metric](https://link.springer.com/chapter/10.1007%2F978-3-030-71151-1_35)
-
-Tags: `stix`, `tunnel`, `urban`, `robot 🤖`
+1. Rogers J.G. et al. (2021) The DARPA SubT Urban Circuit Mapping Dataset and Evaluation Metric. In: Siciliano B., Laschi C., Khatib O. (eds) Experimental Robotics. ISER 2020. Springer Proceedings in Advanced Robotics, vol 19. Springer, Cham. https://doi.org/10.1007/978-3-030-71151-1_35
