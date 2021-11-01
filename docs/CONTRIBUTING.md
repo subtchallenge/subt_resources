@@ -3,7 +3,7 @@
 All SubT Challenge competitors are welcome to contribute links to their open-source software, hardware, and datasets here. All contributions must include:
 
 1. Link to the open repository or dataset
-1. Brief (< N character) description of the resource, especially what makes the resource unique/novel *TODO: Select a word/character limit*
+1. Brief (1-2 sentence) description of the resource, especially what makes the resource unique/novel
 1. Name of the SubT Challenge team who developed the resource
 1. Link to the publication associated with the resource, if applicable
 1. Tags for the relevant technology area, event, or subdomain
