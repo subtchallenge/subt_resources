@@ -28,4 +28,8 @@ Package with an advanced and highly configurable filter for pointclouds and lase
 
 Created by: CTU-CRAS-NORLAB
 
+ROS packages:
+ - `ros-melodic-robot-body-filter` / `ros-noetic-robot-body-filter`
+ - `ros-melodic-sensor-filters` / `ros-noetic-sensor-filters`
+
 Tags: `perception 📷`, `simulation 🖥️`
