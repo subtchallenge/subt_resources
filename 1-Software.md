@@ -26,3 +26,16 @@ Tags: `mobility 🦵`, `autonomy 🧠`, `perception 📷`, `networking 📶`, `s
 GPU accelerated occupancy and voxel mapping with heightmap generation for high rate lidar by Team CSIRO Data61. Supports both OpenCL and/or CUDA for generating probabilistic occupancy maps with extended models such as normal distribution transforms. Additional modules support generation of single or multi-layer heightmaps with virtual surface generation for negative obstacle avoidance.
 
 Tags: `perception 📷`
+
+### [Robot Body Filter](https://github.com/peci1/robot_body_filter) and its [Tutorial Using SubT Virtual Robots](https://github.com/ctu-vras/rosdevday_cloud_filtering)
+
+Package with an advanced and highly configurable filter for pointclouds and laser scans which removes measurements on the body of the robot. It can be used both in simulation and on real robots. The tutorial ([software](https://github.com/ctu-vras/rosdevday_cloud_filtering), [video](https://www.youtube.com/watch?v=j0ljV0uZy3Q)) has been made for ROSDevDay 2021 using the CTU-CRAS-NORLAB virtual SubT robots.
+
+Created by: CTU-CRAS-NORLAB
+
+ROS packages:
+ - `ros-melodic-robot-body-filter` / `ros-noetic-robot-body-filter`
+ - `ros-melodic-sensor-filters` / `ros-noetic-sensor-filters`
+
+Tags: `perception 📷`, `simulation 🖥️`
+
