@@ -21,6 +21,11 @@ Multiple open-source software repositories for mapping, object detection, and na
 
 Tags: `mobility 🦵`, `autonomy 🧠`, `perception 📷`, `networking 📶`, `simulation 🖥️`
 
+### [Occupancy Homogeneous Map (ohm)](https://github.com/csiro-robotics/ohm)
+
+GPU accelerated occupancy and voxel mapping with heightmap generation for high rate lidar by Team CSIRO Data61. Supports both OpenCL and/or CUDA for generating probabilistic occupancy maps with extended models such as normal distribution transforms. Additional modules support generation of single or multi-layer heightmaps with virtual surface generation for negative obstacle avoidance.
+
+Tags: `perception 📷`
 
 ### [Robot Body Filter](https://github.com/peci1/robot_body_filter) and its [Tutorial Using SubT Virtual Robots](https://github.com/ctu-vras/rosdevday_cloud_filtering)
 
@@ -33,3 +38,4 @@ ROS packages:
  - `ros-melodic-sensor-filters` / `ros-noetic-sensor-filters`
 
 Tags: `perception 📷`, `simulation 🖥️`
+
