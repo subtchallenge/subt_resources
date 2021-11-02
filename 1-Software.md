@@ -20,3 +20,9 @@ A set of software and tutorials developed by DARPA and Open Robotics to quick st
 Multiple open-source software repositories for mapping, object detection, and navigation are built into a dockerized solution.
 
 Tags: `mobility 🦵`, `autonomy 🧠`, `perception 📷`, `networking 📶`, `simulation 🖥️`
+
+### [Occupancy Homogeneous Map (ohm)](https://github.com/csiro-robotics/ohm)
+
+GPU accelerated occupancy and voxel mapping with heightmap generation for high rate lidar by Team CSIRO Data61. Supports both OpenCL and/or CUDA for generating probabilistic occupancy maps with extended models such as normal distribution transforms. Additional modules support generation of single or multi-layer heightmaps with virtual surface generation for negative obstacle avoidance.
+
+Tags: `perception 📷`
