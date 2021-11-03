@@ -11,6 +11,9 @@ These publications were generated in support of the SubT Challenge by DARPA or p
 ### Tunnel Circuit System Paper
 Rouček T. et al. (2020) DARPA Subterranean Challenge: Multi-robotic Exploration of Underground Environments. In: Mazal J., Fagiolini A., Vasik P. (eds) Modelling and Simulation for Autonomous Systems. MESAS 2019. Lecture Notes in Computer Science, vol 11995. Springer, Cham. https://doi.org/10.1007/978-3-030-43890-6_22
 
+### Tunnel and Urban Circuit System Paper
+Rouček T. et al. (2021) System for multi-robotic exploration of underground environments CTU-CRAS-NORLAB in the DARPA Subterranean Challenge. Accepted to Field Robotics. https://arxiv.org/abs/2110.05911
+
 ### MRS UAV System
 Tomas Baca, Matej Petrlik, Matous Vrba, Vojtech Spurny, Robert Penicka, Daniel Hert and Martin Saska. The MRS UAV System: Pushing the Frontiers of Reproducible Research, Real-world Deployment, and Education with Autonomous Unmanned Aerial Vehicles. Journal of Intelligent & Robotic Systems 102(26):1–28, May 2021. http://dx.doi.org/10.1007/s10846-021-01383-5
 
