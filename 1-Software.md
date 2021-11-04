@@ -41,18 +41,7 @@ Tags: `perception 📷`, `simulation 🖥️`
 
 ### [MRS UAV System](https://github.com/ctu-mrs/mrs_uav_system.git)
 
-MRS UAV system is developed and actively maintained by the [Multi-robot Systems Group](http://mrs.felk.cvut.cz/) at the [Czech Technical University in Prague](https://www.cvut.cz/en).
-The system contains both [core](https://github.com/ctu-mrs/uav_core) and [optional](https://github.com/ctu-mrs/uav_modules) ROS packages for research and verification of algorithms for UAVs both in simulation and real hardware:
- - [UAV controllers](https://github.com/ctu-mrs/mrs_uav_controllers) (SE(3) geometric state feedback, model predictive control, failsafe controller)
- - [Trajectory trackers](https://github.com/ctu-mrs/mrs_uav_trackers) for generating feasible all-state reference from a sequence of position setpoints
- - [Trajectory generation](https://github.com/ctu-mrs/mrs_uav_trajectory_generation) for generating time-parametrized trajectory out of a sequence of waypoints
- - [State estimation](https://github.com/ctu-mrs/mrs_uav_odometry) for estimating the state of the UAV by fusion of onboard sensors measurements
- - [Library](https://github.com/ctu-mrs/mrs_lib) of useful wrapper classes adding additional functionality to standard ROS interface
- - and much more
-
-Our UAV [simulation package](https://github.com/ctu-mrs/simulation) based on the Gazebo simulator contains configurable models of most of the real [UAV platforms](http://mrs.felk.cvut.cz/research/micro-aerial-vehicles) used by our group including the X500 deployed in both system and virtual track finals of DARPA SubT by our team CTU-CRAS-NORLAB. The sensor payload can be easily customized by arguments and includes most often used sensors such as Ouster and Velodyne LiDARs, Realsense RGBD cameras, 2D LiDARs, RGB cameras, etc.
-
-Most of the software is well documented at https://ctu-mrs.github.io/.
+The MRS UAV system is developed and actively maintained by the [Multi-robot Systems Group](http://mrs.felk.cvut.cz/) at the [Czech Technical University in Prague](https://www.cvut.cz/en). The system contains both [core](https://github.com/ctu-mrs/uav_core) and [optional](https://github.com/ctu-mrs/uav_modules) ROS packages for research and verification of algorithms for UAVs both in simulation and real hardware. Our UAV [simulation package](https://github.com/ctu-mrs/simulation) based on the Gazebo simulator contains configurable models of most of the real [UAV platforms](http://mrs.felk.cvut.cz/research/micro-aerial-vehicles) used by our group including the X500 deployed in DARPA SubT.
 
 The system follows a description presented in the article: [doi](https://doi.org/10.1007/s10846-021-01383-5), [pdf](https://link.springer.com/content/pdf/10.1007/s10846-021-01383-5.pdf).
 
