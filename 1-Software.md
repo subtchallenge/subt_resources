@@ -39,3 +39,12 @@ ROS packages:
 
 Tags: `perception 📷`, `simulation 🖥️`
 
+### [MRS UAV System](https://github.com/ctu-mrs/mrs_uav_system.git)
+
+The MRS UAV system is developed and actively maintained by the [Multi-robot Systems Group](http://mrs.felk.cvut.cz/) at the [Czech Technical University in Prague](https://www.cvut.cz/en). The system contains both [core](https://github.com/ctu-mrs/uav_core) and [optional](https://github.com/ctu-mrs/uav_modules) ROS packages for research and verification of algorithms for UAVs both in simulation and real hardware. Our UAV [simulation package](https://github.com/ctu-mrs/simulation) based on the Gazebo simulator contains configurable models of most of the real [UAV platforms](http://mrs.felk.cvut.cz/research/micro-aerial-vehicles) used by our group including the X500 deployed in DARPA SubT.
+
+The system follows a description presented in the article: [doi](https://doi.org/10.1007/s10846-021-01383-5), [pdf](https://link.springer.com/content/pdf/10.1007/s10846-021-01383-5.pdf).
+
+Created by: CTU-CRAS-NORLAB
+
+Tags: `mobility 🦵`, `autonomy 🧠`, `perception 📷`, `networking 📶`, `simulation 🖥️`
