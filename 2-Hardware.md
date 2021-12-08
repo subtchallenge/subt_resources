@@ -15,4 +15,4 @@ Tags: `perception 📷`
 Design, assembly, and programming information for the Transponder designed by DARPA as a safety mechanism for robot emergency stops for SubT Challenge Events. 
 The transponder housing parts can be 3D printed to house an XBee, rechargeable battery, emergency stop switch, and status display.
 
-Tags: `safety :safety_vest:`
+Tags: `safety `:safety_vest:
