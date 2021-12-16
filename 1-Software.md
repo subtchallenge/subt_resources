@@ -35,6 +35,13 @@ The Test Mapping Server accepts mapping data submissions as JSON-encoded objects
 
 Tags: `perception 📷`
 
+### [Map Analysis](https://github.com/subtchallenge/map_analysis)
+
+Tools developed by DARPA and the CCDC Army Research Laboratory to analyze and quantify mapping performance. 
+The Map Analysis package produces intrinsic and extrinsic metrics such as map coverage, deviation, and RMSE by comparing 3D point clouds and artifact reports to known ground-truth data. 
+
+Tags: `perception 📷`
+
 ### [Occupancy Homogeneous Map (ohm)](https://github.com/csiro-robotics/ohm)
 
 GPU accelerated occupancy and voxel mapping with heightmap generation for high rate lidar by Team CSIRO Data61. Supports both OpenCL and/or CUDA for generating probabilistic occupancy maps with extended models such as normal distribution transforms. Additional modules support generation of single or multi-layer heightmaps with virtual surface generation for negative obstacle avoidance.
