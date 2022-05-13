@@ -69,3 +69,51 @@ The system follows a description presented in the article: [doi](https://doi.org
 Created by: CTU-CRAS-NORLAB
 
 Tags: `mobility 🦵`, `autonomy 🧠`, `perception 📷`, `networking 📶`, `simulation 🖥️`
+
+### [Graph-based Exploration Planner 2.0](https://github.com/ntnu-arl/gbplanner_ros)
+
+Exploration path planning by Team CERBERUS.
+
+Tags: `mobility 🦵`, `autonomy 🧠` 
+
+### [Motion Primitives-based Exploration Planner](https://github.com/ntnu-arl/mbplanner_ros)
+
+Exploration path planning by Team CERBERUS.
+
+Tags: `mobility 🦵`, `autonomy 🧠`
+
+### [ANYmal Local Planner](https://github.com/leggedrobotics/art_planner)
+
+Sampling based path planning for ANYmal based on 2.5D height maps, by Team CERBERUS.
+
+Tags: `mobility 🦵`, `autonomy 🧠`
+
+### [Maplab](https://github.com/ethz-asl/maplab)
+
+Research-oriented visual-inertial mapping framework, written in C++, for creating, processing and manipulating multi-session maps by Team CERBERUS.
+
+Tags: `perception 📷`
+
+### [Elevation Mapping](https://github.com/leggedrobotics/elevation_mapping)
+
+Robot-centric elevation mapping for rough terrain navigation by Team CERBERUS.
+
+Tags: `perception 📷`, `mobility 🦵`
+
+### [Voxblox](https://github.com/ethz-asl/voxblox)
+
+Voxblox is a volumetric mapping library based mainly on Truncated Signed Distance Fields (TSDFs) by Team CERBERUS.
+
+Tags: `perception 📷`
+
+### [ROVIO](https://github.com/ethz-asl/rovio)
+
+Robust visual-inertial odometry framework by Team CERBERUS.
+
+Tags: `perception 📷`
+
+### [MAV Control](https://github.com/ethz-asl/mav_control_rw)
+
+Model Predictive Control for flying robots by Team CERBERUS.
+
+Tags: `mobility 🦵`
