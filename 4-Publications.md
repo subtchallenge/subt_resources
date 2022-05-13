@@ -25,3 +25,21 @@ Vit Kratky, Pavel Petracek, Tomas Baca and Martin Saska. An autonomous unmanned 
 
 ### Preparation for Cave Circuit UAV Approach
 Pavel Petracek, Vit Kratky, Matej Petrlik, Tomas Baca, Radim Kratochvil and Martin Saska. Large-Scale Exploration of Cave Environments by Unmanned Aerial Vehicles. IEEE Robotics and Automation Letters 6(4):7596-7603, October 2021. http://dx.doi.org/10.1109/LRA.2021.3098304
+
+## Team MARBLE
+
+1. M. T. Ohradzansky, A. B. Mills, E. R. Rush, D. G. Riley, E. W. Frew and J. Sean Humbert, "Reactive Control and Metric-Topological Planning for Exploration," 2020 IEEE International Conference on Robotics and Automation (ICRA), 2020, pp. 4073-4079, doi: 10.1109/ICRA40945.2020.9197381.
+
+1. S. Bateman, K. Harlow and C. Heckman, "Better Together: Online Probabilistic Clique Change Detection in 3D Landmark-Based Maps," 2020 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2020, pp. 4878-4885, doi: 10.1109/IROS45743.2020.9341789.
+
+1. M. T. Ohradzansky, et al., Multi-Agent Autonomy: Advancements and Challenges in Subterranean Exploration, Field Robots Journal, Special Edition, 2021.
+
+1. D. Riley and E. Frew, “Assessment of Coordinated Heterogeneous Exploration of Complex Environments” in Conference on ControlTechnology and Applications (CCTA) 2021.
+
+1. S. Ahmad, A. B. Mills, E. R. Rush, E. Frew, J. S. Humbert, “3D Reactive Control and Frontier-Based Exploration for Unstructured Environments”, 2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS).
+
+1. S. Ahmad, Z. N. Sunberg, J. S. Humbert, “APF-PF: Probabilistic Depth Perception for 3D Reactive Obstacle Avoidance," in 2021 American ControlConference, 2021, p. 32-39.
+
+1. S. Ahmad, Z. N. Sunberg, J. S. Humbert, “End-to-End Probabilistic Depth Perception and 3D Obstacle Avoidance," in Journal of Intelligent and Robotic Systems, 2021, under review. 
+
+1. A. Kramer, K. Harlow, C. Williams, C. Heckman, “ColoRadar: The Direct 3D Millimeter Wave Radar Dataset,” The International Journal of Robotics Research, 2021. https://arpg.github.io/coloradar/
