@@ -69,3 +69,9 @@ The system follows a description presented in the article: [doi](https://doi.org
 Created by: CTU-CRAS-NORLAB
 
 Tags: `mobility 🦵`, `autonomy 🧠`, `perception 📷`, `networking 📶`, `simulation 🖥️`
+
+### [Stairway Detection](https://github.com/ThomasWestfechtel/StairwayDetection)
+
+Graph-based stairway detection using point cloud data by Team MARBLE.
+
+Tags: `perception 📷`
