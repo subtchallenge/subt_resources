@@ -25,3 +25,15 @@ Vit Kratky, Pavel Petracek, Tomas Baca and Martin Saska. An autonomous unmanned 
 
 ### Preparation for Cave Circuit UAV Approach
 Pavel Petracek, Vit Kratky, Matej Petrlik, Tomas Baca, Radim Kratochvil and Martin Saska. Large-Scale Exploration of Cave Environments by Unmanned Aerial Vehicles. IEEE Robotics and Automation Letters 6(4):7596-7603, October 2021. http://dx.doi.org/10.1109/LRA.2021.3098304
+
+## Team CSIRO Data61
+
+1. T. Hines et al., "Virtual Surfaces and Attitude Aware Planning and Behaviours for Negative Obstacle Navigation," in IEEE Robotics and Automation Letters, vol. 6, no. 2, pp. 4048-4055, April 2021. https://doi.org/10.1109/LRA.2021.3065302 
+
+1. J. Williams et al., "Online 3D Frontier-Based UGV and UAV Exploration Using Direct Point Cloud Visibility," 2020 IEEE International Conference on Multisensor Fusion and Integration for Intelligent Systems (MFI), 2020, pp. 263-270. https://doi.org/10.1109/MFI49285.2020.9235268 
+
+1. Hudson, Nicolas, et al. "Heterogeneous Ground and Air Platforms, Homogeneous Sensing: Team CSIRO Data61's Approach to the DARPA Subterranean Challenge." arXiv preprint arXiv:2104.09053 (2021). https://arxiv.org/abs/2104.09053 
+
+1. Tidd, Brendan, et al. "Passing through narrow gaps with deep reinforcement learning." 2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). IEEE, 2021. https://arxiv.org/abs/2103.03991 
+
+1. Steindl, Ryan, et al. "Bruce--Design and Development of a Dynamic Hexapod Robot." arXiv preprint arXiv:2011.00523 (2020). https://arxiv.org/abs/2011.00523
