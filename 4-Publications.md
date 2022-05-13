@@ -25,3 +25,23 @@ Vit Kratky, Pavel Petracek, Tomas Baca and Martin Saska. An autonomous unmanned 
 
 ### Preparation for Cave Circuit UAV Approach
 Pavel Petracek, Vit Kratky, Matej Petrlik, Tomas Baca, Radim Kratochvil and Martin Saska. Large-Scale Exploration of Cave Environments by Unmanned Aerial Vehicles. IEEE Robotics and Automation Letters 6(4):7596-7603, October 2021. http://dx.doi.org/10.1109/LRA.2021.3098304
+
+## Team CoSTAR
+
+1. "NeBula: Quest for Robotic Autonomy in Challenging Environments; TEAM CoSTAR at the DARPA Subterranean Challenge," Accepted for publication in the Journal of Field Robotics, 2021. [PDF](https://arxiv.org/pdf/2103.11470.pdf)
+
+1. "Autonomous Spot: Long-range Autonomous Exploration of Extreme Environments with Legged Locomotion," IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Las Vegas, USA, 2020. Best Paper Award on Safety, Security, and Rescue Robotics. [PDF](https://arxiv.org/pdf/2010.09259.pdf), [Video](https://www.youtube.com/watch?v=VitjPLRdY8g)
+
+1. "Deep Learning Tubes for Tube MPC," Robotics: Science and Systems (RSS), Corvallis, USA, 2020. [PDF](https://arxiv.org/pdf/2002.01587.pdf)
+
+1. “Confidence-rich 3D Grid Mapping,” International Journal of Robotics Research (IJRR), vol.38, pp.1352-1374, 2019. [PDF](https://arxiv.org/pdf/2006.15754.pdf)
+
+1. "Autonomous Navigation of Drones,” The International Symposium on Robotics Research (ISRR). Hanoi, Vietnam, 2019. [PDF](https://drive.google.com/file/d/1vyHcbSQi8UgUtLhUz3lKeQhGDbZU0Gvl/view?usp=sharing)
+
+1. “Bi-directional Value Learning for Risk-aware Planning Under Uncertainty,” IEEE Robotics and Automation Letters (RA-L), vol.4, no.3, pp.2493-2500, March, 2019. [PDF](https://arxiv.org/pdf/1902.05698.pdf)
+
+1. "LAMP: Large-Scale Autonomous Mapping and Positioning for Exploration of Perceptually-Degraded Subterranean Environments," IEEE International Conference on Robotics and Automation (ICRA), Paris, France, 2020. [PDF](https://arxiv.org/pdf/2003.01744.pdf)
+
+1. "LOCUS - LiDAR Odometry for Consistent Operation in Uncertain Settings", IEEE Robotics and Automation Letters (RA-L). 2020. [PDF](https://arxiv.org/abs/2012.14447), [Video](https://www.youtube.com/watch?v=b2lBQ-q5rOE)
+
+1. “Contact Inertial Odometry: Collisions are your Friend,” The International Symposium on Robotics Research (ISRR), Hanoi, Vietnam, 2019. [PDF](https://arxiv.org/pdf/1909.00079.pdf)
