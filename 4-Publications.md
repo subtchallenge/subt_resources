@@ -62,6 +62,8 @@ Pavel Petracek, Vit Kratky, Matej Petrlik, Tomas Baca, Radim Kratochvil and Mart
 
 1. P. Fankhauser, M. Bloesch, C. Gehring, M. Hutter, M. and R. Siegwart, “Robot-centric elevation mapping with uncertainty estimates,” In Mobile Service Robotics (pp. 433-440). 
 
+1. T. Miki, L. Wellhausen, R. Grandia, F. Jenelten, T. Homberger, and M. Hutter, "Elevation mapping for locomotion and navigation using gpu", Submitted to 2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS).
+
 ### Perception: Multi-Robot Mapping
 
 1. T. Schneider, M. Dymczyk, M. Fehr, K. Egger, S. Lynen, I. Gilitschenski, and R. Siegwart. "maplab: An open framework for research in visual-inertial mapping and localization," IEEE Robotics and Automation Letters 3, no. 3 (2018): 1418-1425.
@@ -80,11 +82,13 @@ Pavel Petracek, Vit Kratky, Matej Petrlik, Tomas Baca, Radim Kratochvil and Mart
 
 1. L. Schmid, V. Reijgwart, L. Ott, J. Nieto, R. Siegwart, and C. Cadena. "A Unified Approach for Autonomous Volumetric Exploration of Large Scale Environments under Severe Odometry Drift," IEEE Robotics and Automation Letters 6, no. 3 (2021): 4504-4511
 
-### Path Planning: Local Planning
+### Path Planning: Legged Robot Navigation Planning
 
 1. L. Wellhausen, and M. Hutter, “Rough Terrain Navigation for Legged Robots using Reachability Planning and Template Learning,” 2021 IEEE/RSJ International Conference on intelligent robots and systems (IROS 2021), September 27-October 1, 2021, Prague, Czech Republic, Open-Source Git Repo: https://github.com/leggedrobotics/art_planner
 
 1. B. Yang, L. Wellhausen, T. Miki, M. Liu, M. Hutter -“Real-time Optimal Navigation Planning Using Learned Motion Costs”, IEEE International Conference on Robotics and Automation (ICRA), May 30-June 5, 2021, Xi'an, China
+
+1. L. Wellhausen, and M. Hutter, "Artplanner: Robust legged robot navigation in the field", Submitted to Field Robotics.
 
 ### Systems Papers
 
