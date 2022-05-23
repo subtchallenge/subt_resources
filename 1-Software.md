@@ -72,13 +72,13 @@ Tags: `mobility 🦵`, `autonomy 🧠`, `perception 📷`, `networking 📶`, `s
 
 ### [Graph-based Exploration Planner 2.0](https://github.com/ntnu-arl/gbplanner_ros)
 
-Exploration path planning by Team CERBERUS.
+Graph-based exploration path planner that uniformly guided both legged and aerial robots of Team CERBERUS in the DARPA Subterranean Challenge.
 
 Tags: `mobility 🦵`, `autonomy 🧠` 
 
 ### [Motion Primitives-based Exploration Planner](https://github.com/ntnu-arl/mbplanner_ros)
 
-Exploration path planning by Team CERBERUS.
+Motion Primitives-based path planner for fast and agile exploration using aerial robots. Developed by Team CERBERUS.
 
 Tags: `mobility 🦵`, `autonomy 🧠`
 
