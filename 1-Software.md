@@ -70,6 +70,8 @@ Created by: CTU-CRAS-NORLAB
 
 Tags: `mobility 🦵`, `autonomy 🧠`, `perception 📷`, `networking 📶`, `simulation 🖥️`
 
+## Team CERBERUS
+
 ### [Graph-based Exploration Planner 2.0](https://github.com/ntnu-arl/gbplanner_ros)
 
 Exploration path planning by Team CERBERUS.
@@ -82,7 +84,7 @@ Exploration path planning by Team CERBERUS.
 
 Tags: `mobility 🦵`, `autonomy 🧠`
 
-### [ANYmal Local Planner](https://github.com/leggedrobotics/art_planner)
+### [ANYmal Rough Terrain Planner](https://github.com/leggedrobotics/art_planner)
 
 Sampling based path planning for ANYmal based on 2.5D height maps, by Team CERBERUS.
 
@@ -94,9 +96,9 @@ Research-oriented visual-inertial mapping framework, written in C++, for creatin
 
 Tags: `perception 📷`
 
-### [Elevation Mapping](https://github.com/leggedrobotics/elevation_mapping)
+### [Elevation Mapping](https://github.com/leggedrobotics/elevation_mapping_cupy)
 
-Robot-centric elevation mapping for rough terrain navigation by Team CERBERUS.
+Robot-centric elevation mapping on GPU for rough terrain navigation and locomotion by Team CERBERUS.
 
 Tags: `perception 📷`, `mobility 🦵`
 
