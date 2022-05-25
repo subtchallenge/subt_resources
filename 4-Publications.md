@@ -32,7 +32,7 @@ Pavel Petracek, Vit Kratky, Matej Petrlik, Tomas Baca, Radim Kratochvil and Mart
 
 1. M. Hutter, C. Gehring, D. Jud, A. Lauber, C.D. Bellicoso, V. Tsounis, J. Hwangbo, K. Bodie, P. Fankhauser, M. Bloesch, R. Diethelm, S. Bachmann, A. Melzer, and M. Hoepflinger,”Anymal-a highly mobile and dynamic quadrupedal robot.,” In 2016 IEEE/RSJ international conference on intelligent robots and systems (IROS) (pp. 38-44). IEEE.
 
-1. T. Miki, J. Lee, J. Hwangbo, L. Wellhausen, V. Koltun, and M. Hutter, “Wild ANYmal: Robust zero-shot perceptive locomotion,” (submitted to) Science Robotics, 2021
+1. T. Miki, J. Lee, J. Hwangbo, L. Wellhausen, V. Koltun, and M. Hutter, “Learning robust perceptive locomotion for quadrupedal robots in the wild,” Science Robotics, 2022. https://www.science.org/doi/abs/10.1126/scirobotics.abk2822
 
 ### Robots & Control: Aerial Robots
 
@@ -94,6 +94,6 @@ Pavel Petracek, Vit Kratky, Matej Petrlik, Tomas Baca, Radim Kratochvil and Mart
 
 ### Systems Papers
 
-1. M. Tranzatto, F. Mascarich, L. Bernreiter, C. Godinho, M. Camurri, S. Khattak, T. Dang, V. Reijgwart, J. Loje, D. Wisth, S. Zimmermann, H. Nguyen, M. Fehr, L. Solanka, R. Buchanan, M. Bjelonic, N. Khedekar, M. Valceschini, F. Jenelten, M. Dharmadhikari, T. Homberger, P. De Petris, L. Wellhausen, M. Kulkarni, T. Miki, S.Hirsch, M. Montenegro, C. Papachristos, F. Tresoldi, J. Carius, G. Valsecchi, J. Lee, K. Meyer, X. Wu, J. Nieto, A. Smith, M. Hutter, R. Siegwart, M. Mueller, Ma. Fallon, K. Alexis, "CERBERUS: Autonomous Legged and Aerial Robotic Exploration in the Tunnel and Urban Circuits of the DARPA Subterranean Challenge", Field Robotics (accepted -pending publication)
+1. M. Tranzatto, F. Mascarich, L. Bernreiter, C. Godinho, M. Camurri, S. Khattak, T. Dang, V. Reijgwart, J. Loje, D. Wisth, S. Zimmermann, H. Nguyen, M. Fehr, L. Solanka, R. Buchanan, M. Bjelonic, N. Khedekar, M. Valceschini, F. Jenelten, M. Dharmadhikari, T. Homberger, P. De Petris, L. Wellhausen, M. Kulkarni, T. Miki, S.Hirsch, M. Montenegro, C. Papachristos, F. Tresoldi, J. Carius, G. Valsecchi, J. Lee, K. Meyer, X. Wu, J. Nieto, A. Smith, M. Hutter, R. Siegwart, M. Mueller, Ma. Fallon, K. Alexis, "CERBERUS: Autonomous Legged and Aerial Robotic Exploration in the Tunnel and Urban Circuits of the DARPA Subterranean Challenge", Field Robotics, 274–324 (2022). https://doi.org/10.48550/arXiv.2201.07067
 
 1. C. D. Bellicoso, M. Bjelonic, L. Wellhausen, K. Holtmann, F. Günther, M. Tranzatto, P. Fankhauser, M. Hutter, “Advances in real-world applications for legged robots”, Journal of Field Robotics, December 2018, pp. 1311-1326.
