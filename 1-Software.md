@@ -70,6 +70,14 @@ Created by: CTU-CRAS-NORLAB
 
 Tags: `mobility 🦵`, `autonomy 🧠`, `perception 📷`, `networking 📶`, `simulation 🖥️`
 
+## Team MARBLE
+
+### [Stairway Detection](https://github.com/ThomasWestfechtel/StairwayDetection)
+
+Graph-based stairway detection using point cloud data by Team MARBLE.
+
+Tags: `perception 📷`
+
 ## Team CERBERUS
 
 ### [Graph-based Exploration Planner 2.0](https://github.com/ntnu-arl/gbplanner_ros)
@@ -121,3 +129,4 @@ Tags: `perception 📷`
 Model Predictive Control for flying robots by Team CERBERUS.
 
 Tags: `mobility 🦵`
+
