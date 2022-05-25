@@ -42,54 +42,6 @@ The Map Analysis package produces intrinsic and extrinsic metrics such as map co
 
 Tags: `perception 📷`
 
-## Team CSIRO Data61
-
-### [Occupancy Homogeneous Map (ohm)](https://github.com/csiro-robotics/ohm)
-
-GPU accelerated occupancy and voxel mapping with heightmap generation for high rate lidar by Team CSIRO Data61. Supports both OpenCL and/or CUDA for generating probabilistic occupancy maps with extended models such as normal distribution transforms. Additional modules support generation of single or multi-layer heightmaps with virtual surface generation for negative obstacle avoidance.
-
-Tags: `perception 📷`
-
-## Team CTU-CRAS-NORLAB
-
-### [Robot Body Filter](https://github.com/peci1/robot_body_filter) and its [Tutorial Using SubT Virtual Robots](https://github.com/ctu-vras/rosdevday_cloud_filtering)
-
-Package with an advanced and highly configurable filter for pointclouds and laser scans which removes measurements on the body of the robot. It can be used both in simulation and on real robots. The tutorial ([software](https://github.com/ctu-vras/rosdevday_cloud_filtering), [video](https://www.youtube.com/watch?v=j0ljV0uZy3Q)) has been made for ROSDevDay 2021 using the CTU-CRAS-NORLAB virtual SubT robots.
-
-Created by: CTU-CRAS-NORLAB
-
-ROS packages:
- - `ros-melodic-robot-body-filter` / `ros-noetic-robot-body-filter`
- - `ros-melodic-sensor-filters` / `ros-noetic-sensor-filters`
-
-Tags: `perception 📷`, `simulation 🖥️`
-
-### [MRS UAV System](https://github.com/ctu-mrs/mrs_uav_system.git)
-
-The MRS UAV system is developed and actively maintained by the [Multi-robot Systems Group](http://mrs.felk.cvut.cz/) at the [Czech Technical University in Prague](https://www.cvut.cz/en). The system contains both [core](https://github.com/ctu-mrs/uav_core) and [optional](https://github.com/ctu-mrs/uav_modules) ROS packages for research and verification of algorithms for UAVs both in simulation and real hardware. Our UAV [simulation package](https://github.com/ctu-mrs/simulation) based on the Gazebo simulator contains configurable models of most of the real [UAV platforms](http://mrs.felk.cvut.cz/research/micro-aerial-vehicles) used by our group including the X500 deployed in DARPA SubT.
-
-The system follows a description presented in the article: [doi](https://doi.org/10.1007/s10846-021-01383-5), [pdf](https://link.springer.com/content/pdf/10.1007/s10846-021-01383-5.pdf).
-
-Created by: CTU-CRAS-NORLAB
-
-Tags: `mobility 🦵`, `autonomy 🧠`, `perception 📷`, `networking 📶`, `simulation 🖥️`
-
-## Team Robotika
-
-### [OSGAR](https://github.com/robotika/osgar)
-
-Open Source Garden/Generic Autonomous Robot (OSGAR) is a lightweight multi-platform library by Team Robotika targeting record and replay of multiple nodes (modules = sensors, robots, applications) logged into single file. It has similar goals as ROS or ADTF, but is minimalistic.
-
-Tags: `mobility 🦵`, `autonomy 🧠`, `perception 📷`
-
-## Team MARBLE
-
-### [Stairway Detection](https://github.com/ThomasWestfechtel/StairwayDetection)
-
-Graph-based stairway detection using point cloud data by Team MARBLE.
-
-Tags: `perception 📷`
-
 ## Team CERBERUS
 
 ### [Graph-based Exploration Planner 2.0](https://github.com/ntnu-arl/gbplanner_ros)
@@ -141,3 +93,52 @@ Tags: `perception 📷`
 Model Predictive Control for flying robots by Team CERBERUS.
 
 Tags: `mobility 🦵`
+
+## Team CSIRO Data61
+
+### [Occupancy Homogeneous Map (ohm)](https://github.com/csiro-robotics/ohm)
+
+GPU accelerated occupancy and voxel mapping with heightmap generation for high rate lidar by Team CSIRO Data61. Supports both OpenCL and/or CUDA for generating probabilistic occupancy maps with extended models such as normal distribution transforms. Additional modules support generation of single or multi-layer heightmaps with virtual surface generation for negative obstacle avoidance.
+
+Tags: `perception 📷`
+
+## Team CTU-CRAS-NORLAB
+
+### [Robot Body Filter](https://github.com/peci1/robot_body_filter) and its [Tutorial Using SubT Virtual Robots](https://github.com/ctu-vras/rosdevday_cloud_filtering)
+
+Package with an advanced and highly configurable filter for pointclouds and laser scans which removes measurements on the body of the robot. It can be used both in simulation and on real robots. The tutorial ([software](https://github.com/ctu-vras/rosdevday_cloud_filtering), [video](https://www.youtube.com/watch?v=j0ljV0uZy3Q)) has been made for ROSDevDay 2021 using the CTU-CRAS-NORLAB virtual SubT robots.
+
+Created by: CTU-CRAS-NORLAB
+
+ROS packages:
+ - `ros-melodic-robot-body-filter` / `ros-noetic-robot-body-filter`
+ - `ros-melodic-sensor-filters` / `ros-noetic-sensor-filters`
+
+Tags: `perception 📷`, `simulation 🖥️`
+
+### [MRS UAV System](https://github.com/ctu-mrs/mrs_uav_system.git)
+
+The MRS UAV system is developed and actively maintained by the [Multi-robot Systems Group](http://mrs.felk.cvut.cz/) at the [Czech Technical University in Prague](https://www.cvut.cz/en). The system contains both [core](https://github.com/ctu-mrs/uav_core) and [optional](https://github.com/ctu-mrs/uav_modules) ROS packages for research and verification of algorithms for UAVs both in simulation and real hardware. Our UAV [simulation package](https://github.com/ctu-mrs/simulation) based on the Gazebo simulator contains configurable models of most of the real [UAV platforms](http://mrs.felk.cvut.cz/research/micro-aerial-vehicles) used by our group including the X500 deployed in DARPA SubT.
+
+The system follows a description presented in the article: [doi](https://doi.org/10.1007/s10846-021-01383-5), [pdf](https://link.springer.com/content/pdf/10.1007/s10846-021-01383-5.pdf).
+
+Created by: CTU-CRAS-NORLAB
+
+Tags: `mobility 🦵`, `autonomy 🧠`, `perception 📷`, `networking 📶`, `simulation 🖥️`
+
+## Team MARBLE
+
+### [Stairway Detection](https://github.com/ThomasWestfechtel/StairwayDetection)
+
+Graph-based stairway detection using point cloud data by Team MARBLE.
+
+Tags: `perception 📷`
+
+## Team Robotika
+
+### [OSGAR](https://github.com/robotika/osgar)
+
+Open Source Garden/Generic Autonomous Robot (OSGAR) is a lightweight multi-platform library by Team Robotika targeting record and replay of multiple nodes (modules = sensors, robots, applications) logged into single file. It has similar goals as ROS or ADTF, but is minimalistic.
+
+Tags: `mobility 🦵`, `autonomy 🧠`, `perception 📷`
+
