@@ -77,3 +77,63 @@ Tags: `mobility 🦵`, `autonomy 🧠`, `perception 📷`, `networking 📶`, `s
 Open Source Garden/Generic Autonomous Robot (OSGAR) is a lightweight multi-platform library by Team Robotika targeting record and replay of multiple nodes (modules = sensors, robots, applications) logged into single file. It has similar goals as ROS or ADTF, but is minimalistic.
 
 Tags: `mobility 🦵`, `autonomy 🧠`, `perception 📷`
+
+## Team MARBLE
+
+### [Stairway Detection](https://github.com/ThomasWestfechtel/StairwayDetection)
+
+Graph-based stairway detection using point cloud data by Team MARBLE.
+
+Tags: `perception 📷`
+
+## Team CERBERUS
+
+### [Graph-based Exploration Planner 2.0](https://github.com/ntnu-arl/gbplanner_ros)
+
+Graph-based exploration path planner that uniformly guided both legged and aerial robots of Team CERBERUS in the DARPA Subterranean Challenge.  
+Preprint: [Paper](https://arxiv.org/abs/2111.06482)
+
+Tags: `mobility 🦵`, `autonomy 🧠` 
+
+### [Motion Primitives-based Exploration Planner](https://github.com/ntnu-arl/mbplanner_ros)
+
+Motion Primitives-based path planner for fast and agile exploration using aerial robots. Developed by Team CERBERUS.  
+Publication: [Paper](https://ieeexplore.ieee.org/document/9196964)
+
+Tags: `mobility 🦵`, `autonomy 🧠`
+
+### [ANYmal Rough Terrain Planner](https://github.com/leggedrobotics/art_planner)
+
+Sampling based path planning for ANYmal based on 2.5D height maps, by Team CERBERUS.
+
+Tags: `mobility 🦵`, `autonomy 🧠`
+
+### [Maplab](https://github.com/ethz-asl/maplab)
+
+Research-oriented visual-inertial mapping framework, written in C++, for creating, processing and manipulating multi-session maps by Team CERBERUS.
+
+Tags: `perception 📷`
+
+### [Elevation Mapping](https://github.com/leggedrobotics/elevation_mapping_cupy)
+
+Robot-centric elevation mapping on GPU for rough terrain navigation and locomotion by Team CERBERUS.
+
+Tags: `perception 📷`, `mobility 🦵`
+
+### [Voxblox](https://github.com/ethz-asl/voxblox)
+
+Voxblox is a volumetric mapping library based mainly on Truncated Signed Distance Fields (TSDFs) by Team CERBERUS.
+
+Tags: `perception 📷`
+
+### [ROVIO](https://github.com/ethz-asl/rovio)
+
+Robust visual-inertial odometry framework by Team CERBERUS.
+
+Tags: `perception 📷`
+
+### [MAV Control](https://github.com/ethz-asl/mav_control_rw)
+
+Model Predictive Control for flying robots by Team CERBERUS.
+
+Tags: `mobility 🦵`
