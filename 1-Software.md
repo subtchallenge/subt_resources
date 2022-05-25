@@ -70,6 +70,14 @@ Created by: CTU-CRAS-NORLAB
 
 Tags: `mobility 🦵`, `autonomy 🧠`, `perception 📷`, `networking 📶`, `simulation 🖥️`
 
+## Team Robotika
+
+### [OSGAR](https://github.com/robotika/osgar)
+
+Open Source Garden/Generic Autonomous Robot (OSGAR) is a lightweight multi-platform library by Team Robotika targeting record and replay of multiple nodes (modules = sensors, robots, applications) logged into single file. It has similar goals as ROS or ADTF, but is minimalistic.
+
+Tags: `mobility 🦵`, `autonomy 🧠`, `perception 📷`
+
 ## Team MARBLE
 
 ### [Stairway Detection](https://github.com/ThomasWestfechtel/StairwayDetection)
@@ -129,4 +137,3 @@ Tags: `perception 📷`
 Model Predictive Control for flying robots by Team CERBERUS.
 
 Tags: `mobility 🦵`
-
