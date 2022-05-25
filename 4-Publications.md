@@ -36,6 +36,8 @@ Pavel Petracek, Vit Kratky, Matej Petrlik, Tomas Baca, Radim Kratochvil and Mart
 
 ### Robots & Control: Aerial Robots
 
+1. De Petris, Paolo & Nguyen, Huan & Dharmadhikari, Mihir & Kulkarni, Mihir & Khedekar, Nikhil & Mascarich, Frank & Alexis, Kostas, "RMF-Owl: A Collision-Tolerant Flying Robot for Autonomous Subterranean Exploration" (Accepted - Pending Publication) IEEE International Conference on Unmanned Aerial Systems 2022.
+
 1. P. De Petris, H. Nguyen, M. Kulkarni, F. Mascarich, and K. Alexis, "Resilient Collision-tolerant Navigation in Confined Environments," IEEE International Conference on Robotics and Automation (ICRA), May 30-June 5, 2021, Xi'an, China
 
 1. T. Dang, F. Mascarich, S. Khattak, H. Nguyen, N. Khedekar, C. Papachristos, and K. Alexis, "Field-hardened Robotic Autonomy for Subterranean Exploration," Conference on Field and Service Robotics (FSR), 2019, Aug. 29-31, Tokyo, Japan
@@ -74,7 +76,7 @@ Pavel Petracek, Vit Kratky, Matej Petrlik, Tomas Baca, Radim Kratochvil and Mart
 
 ### Path Planning: Autonomous Exploration
 
-1. M. Kulkarni, M. Dharmadhikari, M. Tranzatto, S. Zimmermann, V. Reijgwart, P. De Petris, H. Nguyen, N. Khedekar, C. Papachristos, L. Ott, R. Siegwart, M. Hutter, and K. Alexis, “Autonomous Teamed Exploration of Subterranean Environments using Legged and Aerial Robots,” (under review)
+1. M. Kulkarni, M. Dharmadhikari, M. Tranzatto, S. Zimmermann, V. Reijgwart, P. De Petris, H. Nguyen, N. Khedekar, C. Papachristos, L. Ott, R. Siegwart, M. Hutter, and K. Alexis, “Autonomous Teamed Exploration of Subterranean Environments using Legged and Aerial Robots,” (Accepted: Pending Publication) 2022 IEEE International Conference on Robotics and Automation (ICRA).
 
 1. T. Dang, M. Tranzatto, S. Khattak, F. Mascarich, K. Alexis, M. Hutter, "Graph-based Subterranean Exploration Path Planning using Aerial and Legged Robots," Journal of Field Robotics, November, 2020, https://doi.org/10.1002/rob.21993, Open-Source Git Repo: https://github.com/unr-arl/gbplanner_ros
 
