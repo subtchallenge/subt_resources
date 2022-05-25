@@ -32,7 +32,7 @@ Pavel Petracek, Vit Kratky, Matej Petrlik, Tomas Baca, Radim Kratochvil and Mart
 
 1. M. Hutter, C. Gehring, D. Jud, A. Lauber, C.D. Bellicoso, V. Tsounis, J. Hwangbo, K. Bodie, P. Fankhauser, M. Bloesch, R. Diethelm, S. Bachmann, A. Melzer, and M. Hoepflinger,”Anymal-a highly mobile and dynamic quadrupedal robot.,” In 2016 IEEE/RSJ international conference on intelligent robots and systems (IROS) (pp. 38-44). IEEE.
 
-1. T. Miki, J. Lee, J. Hwangbo, L. Wellhausen, V. Koltun, and M. Hutter, “Wild ANYmal: Robust zero-shot perceptive locomotion,” Science Robotics 7 (2022), eabk2822
+1. T. Miki, J. Lee, J. Hwangbo, L. Wellhausen, V. Koltun, and M. Hutter, “Learning robust perceptive locomotion for quadrupedal robots in the wild,” Science Robotics, 2022. https://www.science.org/doi/abs/10.1126/scirobotics.abk2822
 
 ### Robots & Control: Aerial Robots
 
