@@ -70,6 +70,8 @@ Created by: CTU-CRAS-NORLAB
 
 Tags: `mobility 🦵`, `autonomy 🧠`, `perception 📷`, `networking 📶`, `simulation 🖥️`
 
+## Team Robotika
+
 ### [OSGAR](https://github.com/robotika/osgar)
 
 Open Source Garden/Generic Autonomous Robot (OSGAR) is a lightweight multi-platform library by Team Robotika targeting record and replay of multiple nodes (modules = sensors, robots, applications) logged into single file. It has similar goals as ROS or ADTF, but is minimalistic.
