@@ -94,6 +94,8 @@ Pavel Petracek, Vit Kratky, Matej Petrlik, Tomas Baca, Radim Kratochvil and Mart
 
 ### Systems Papers
 
+1. M. Tranzatto, T. Miki, M. Dharmadhikari, L. Bernreiter, M. Kulkarni, F. Mascarich, O. Andersson, S. Khattak, M. Hutter, R. Siegwart, K. Alexis, "CERBERUS in the DARPA Subterranean Challenge", Science Robotics 7 (2022).
+
 1. M. Tranzatto, F. Mascarich, L. Bernreiter, C. Godinho, M. Camurri, S. Khattak, T. Dang, V. Reijgwart, J. Loje, D. Wisth, S. Zimmermann, H. Nguyen, M. Fehr, L. Solanka, R. Buchanan, M. Bjelonic, N. Khedekar, M. Valceschini, F. Jenelten, M. Dharmadhikari, T. Homberger, P. De Petris, L. Wellhausen, M. Kulkarni, T. Miki, S.Hirsch, M. Montenegro, C. Papachristos, F. Tresoldi, J. Carius, G. Valsecchi, J. Lee, K. Meyer, X. Wu, J. Nieto, A. Smith, M. Hutter, R. Siegwart, M. Mueller, Ma. Fallon, K. Alexis, "CERBERUS: Autonomous Legged and Aerial Robotic Exploration in the Tunnel and Urban Circuits of the DARPA Subterranean Challenge", Field Robotics, 274–324 (2022). https://doi.org/10.48550/arXiv.2201.07067
 
 1. C. D. Bellicoso, M. Bjelonic, L. Wellhausen, K. Holtmann, F. Günther, M. Tranzatto, P. Fankhauser, M. Hutter, “Advances in real-world applications for legged robots”, Journal of Field Robotics, December 2018, pp. 1311-1326.
