@@ -21,14 +21,14 @@ Multiple open-source software repositories for mapping, object detection, and na
 
 Tags: `mobility 🦵`, `autonomy 🧠`, `perception 📷`, `networking 📶`, `simulation 🖥️`
 
-### [Test Scoring Server](https://bitbucket.org/subtchallenge/test_scoring_server)
+### [Test Scoring Server](https://github.com/subtchallenge/test_scoring_server)
 
 Dockerized software interface developed by DARPA to register and report score-related information in the SubT Challenge. 
 The Test Scoring Server accepts artifact report submissions as JSON-encoded objects for each of the ten SubT Challenge artifact types in accordance with the SubT Challenge Interface Control Document (ICD). 
 
 Tags: `perception 📷`
 
-### [Test Mapping Server](https://bitbucket.org/subtchallenge/test_mapping_server)
+### [Test Mapping Server](https://github.com/subtchallenge/test_mapping_server)
 
 Dockerized software interface developed by DARPA to register and report mapping-related information in the SubT Challenge. 
 The Test Mapping Server accepts mapping data submissions as JSON-encoded objects representing 3D point clouds, 2D occupancy grids, telemetry, and markers in accordance with the SubT Challenge Interface Control Document (ICD). 
