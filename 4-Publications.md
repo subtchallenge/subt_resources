@@ -5,6 +5,8 @@ These publications were generated in support of the SubT Challenge by DARPA or p
 1. Chung, T.H., & Orekhov, V. & Maio, A. (2023). Into the Robotic Depths: Analysis and Insights from the DARPA Subterranean Challenge. Annual Review of Control, Robotics, and Autonomous Systems, 6.
 https://doi.org/10.1146/annurev-control-062722-100728
 
+1. Orekhov, V., Maio, A., Daniel, R., & Chung, T. (2023). Inspiring Field Robotics Advances through the Design of the DARPA Subterranean Challenge. Field Robotics, 3, 560–604. https://doi.org/10.55417/fr.2023018
+
 1. Orekhov, V. L., & Chung, T. H. (2022). The DARPA Subterranean Challenge: A synopsis of the Circuits Stage. Field Robotics, 2, 735–747. https://doi.org/10.55417/fr.2022024
 
 1. Rogers, John & Gregory, Jason & Fink, Jonathan & Stump, Ethan. (2020). Test Your SLAM! The SubT-Tunnel dataset and metric for mapping. 955-961. 10.1109/ICRA40945.2020.9197156.
