@@ -43,3 +43,14 @@ Publications:
 The Colorado mm-Wave Radar (ColoRadar) dataset by Team MARBLE consists of 52 sequences, recorded in mines, built environments, and in an urban creek path, totaling more than 145 minutes of 3D FMCW radar, 3D lidar, and IMU data.
 
 Tags: `tunnel`, `urban`
+
+### [SubT-MRS Dataset](https://superodometry.com/datasets#subt-mrs-dataset)
+
+The SubT-MRS Dataset is a collection of multi-robot datasets by Team Explorer obtained from caves, urban areas, and tunnels. The datasets are multi-modal, integrating visual, lidar, thermal, and inertial measurements, enabling exploration under demanding conditions such as darkness, smoke, dust, and geometrically degraded environments.
+
+Tags: `tunnel`, `urban`, `cave`, `robot 🤖`
+
+Publications:
+
+1. Zhao, Shibo, et al. (2023) SubT-MRS: A subterranean, multi-robot, multi-spectral and multi-degraded dataset for robust SLAM. arXiv preprint arXiv:2307.07607. https://doi.org/10.48550/arXiv.2307.07607
+
